@@ -2,3 +2,5 @@
 /.pydevproject
 /forJun/
 /fromJun/
+*.pyc
+*.pptx
